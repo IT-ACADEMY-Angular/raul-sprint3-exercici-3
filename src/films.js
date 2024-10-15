@@ -83,7 +83,7 @@ function hoursToMinutes(array) {
   });
 }
 const result = hoursToMinutes(movies);
-console.log(result);
+// console.log(result);
 
 // Exercise 8: Get the best film of a year
 function bestFilmOfYear(array, year) {
